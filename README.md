@@ -42,14 +42,14 @@ The HTML file contains a button and a span element to display the hex code of th
 
 ### JavaScript
 #### Variables
-- btn: Selects the button element.
-- body: Selects the body element.
-- bgHexCodeSpanElement: Selects the span element to display the hex code.
-- darkColorsArr: An array of predefined dark color hex codes.
+- "btn": Selects the button element.
+- "body": Selects the body element.
+- "bgHexCodeSpanElement": Selects the span element to display the hex code.
+- "darkColorsArr": An array of predefined dark color hex codes.
 
 #### Functions
-- getRandomIndex(): Generates a random index to select a color from darkColorsArr.
-- changeBackgroundColor(): Changes the background color to a randomly selected color from darkColorsArr and updates the span element with the new color's hex code.
+- "getRandomIndex()": Generates a random index to select a color from darkColorsArr.
+- "changeBackgroundColor()": Changes the background color to a randomly selected color from darkColorsArr and updates the span element with the new color's hex code.
 
 #### Event Listener
-- btn.onclick: Sets up an event listener on the button to call changeBackgroundColor() when the button is clicked.
+- "btn.onclick": Sets up an event listener on the button to call changeBackgroundColor() when the button is clicked.
