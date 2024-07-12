@@ -52,4 +52,4 @@ The HTML file contains a button and a span element to display the hex code of th
 - "changeBackgroundColor()": Changes the background color to a randomly selected color from darkColorsArr and updates the span element with the new color's hex code.
 
 #### Event Listener
-- "btn.onclick": Sets up an event listener on the button to call changeBackgroundColor() when the button is clicked.
+- "btn.onclick": Sets up an event listener on the button to call "changeBackgroundColor()" when the button is clicked.
