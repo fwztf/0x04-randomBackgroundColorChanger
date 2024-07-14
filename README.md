@@ -30,26 +30,26 @@ Follow these instructions to get a copy of the project up and running on your lo
 3. Open the index.html file in your web browser
 
 ## Usage
-1. Open the index.html file in your web browser.
-2. Click the "Change Background Color" button.
-3. Observe the background color change and the corresponding hex code displayed on the page.
+1. Open the index.html file in your web browser
+2. Click the "Change Background Color" button
+3. Observe the background color change and the corresponding hex code displayed on the page
 
 ## Code Explanation
-The core functionality is implemented in JavaScript. Here’s a brief explanation of the main parts of the code:
+The core functionality is implemented in JavaScript (obviously). Here’s a brief explanation of the main parts of the code:
 
 ### HTML
-The HTML file contains a button and a span element to display the hex code of the current background color.
+The HTML file contains a button and a span element to display the hex code of the current background color
 
 ### JavaScript
 #### Variables
-- "btn": Selects the button element.
-- "body": Selects the body element.
-- "bgHexCodeSpanElement": Selects the span element to display the hex code.
-- "darkColorsArr": An array of predefined dark color hex codes.
+- "btn": Selects the button element
+- "body": Selects the body element
+- "bgHexCodeSpanElement": Selects the span element to display the hex code
+- "darkColorsArr": An array of predefined dark color hex codes
 
 #### Functions
-- "getRandomIndex()": Generates a random index to select a color from darkColorsArr.
-- "changeBackgroundColor()": Changes the background color to a randomly selected color from darkColorsArr and updates the span element with the new color's hex code.
+- "getRandomIndex()": Generates a random index to select a color from darkColorsArr
+- "changeBackgroundColor()": Changes the background color to a randomly selected color from darkColorsArr and updates the span element with the new color's hex code
 
 #### Event Listener
-- "btn.onclick": Sets up an event listener on the button to call "changeBackgroundColor()" when the button is clicked.
+- "btn.onclick": Sets up an event listener on the button to call "changeBackgroundColor()" when the button is clicked
