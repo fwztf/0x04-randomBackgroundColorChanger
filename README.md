@@ -1,6 +1,7 @@
 # randomBackgroundColorChanger
-This project is a simple web application that changes the background color of the page to a random dark color from a predefined list when a button is clicked. 
-The current background color's hex code is also displayed on the page.
+This project is a simple web application that changes the background color of the page 
+to a random dark color from a predefined list when a button is clicked. 
+The current background color's hex code is also displayed on the page
 
 ## Table of Contents
 - [Overview](#overview)
@@ -11,14 +12,14 @@ The current background color's hex code is also displayed on the page.
 
 ## Overview
 This application provides a fun and interactive way to change the background color of a webpage. 
-It utilizes a predefined array of dark color hex codes and randomly selects a color from this array whenever the user clicks a button.
+It utilizes a predefined array of dark color hex codes and randomly selects a color from this array whenever the user clicks a button
 
 ## Features
-- Changes the background color to a random dark color on button click.
-- Displays the current background color's hex code on the page.
+- Changes the background color to a random dark color on button click
+- Displays the current background color's hex code on the page
 
 ## Getting Started
-Follow these instructions to get a copy of the project up and running on your local machine.
+Follow these instructions to get a copy of the project up and running on your local machine
 
 ### Prerequisites
 - A web browser (e.g., Chrome, Firefox, Edge, etc.)
