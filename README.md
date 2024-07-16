@@ -1,5 +1,4 @@
 # randomBackgroundColorChanger
-The fourth project under the FCC JS algorithms and data structures curriculum.
 This project is a simple web application that changes the background color of the page to a random dark color from a predefined list when a button is clicked. 
 The current background color's hex code is also displayed on the page.
 
